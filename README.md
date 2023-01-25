@@ -1,2 +1,2 @@
 # react-chat-widget
-This is a chat widget package written in react
+This is a chat widget package written in react and typescript
